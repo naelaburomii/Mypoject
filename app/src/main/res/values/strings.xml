@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Project</string>
+    <string-array name="students">
+        <item>Nael</item>
+        <item>Ahmed</item>
+        <item>Murad</item>
+        <item>Hasan</item>
+        <item>Matan</item>
+        <item>Hayeem</item>
+        <item>Jacob</item>
+        <item>Michail</item>
+        <item>Alexandro</item>
+        <item>Ashraf</item>
+
+
+    </string-array>
+</resources>
